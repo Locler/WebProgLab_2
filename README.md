@@ -4,3 +4,4 @@ Some new additions :
 1)about me
 2)change some info
 
+i fucked up a little bit with the second task so...
